@@ -1,0 +1,82 @@
+[
+  {
+    "id": "c01",
+    "name": "Bianca Dizon",
+    "email": "bianca.dizon@example.com",
+    "city": "Angeles City",
+    "favorite": "Halo Flame",
+    "orders": 3,
+    "since": "2024-11",
+    "tier": "Crew"
+  },
+  {
+    "id": "c02",
+    "name": "Marco Lacson",
+    "email": "marco.lacson@example.com",
+    "city": "San Fernando",
+    "favorite": "Spine Rider",
+    "orders": 2,
+    "since": "2025-01",
+    "tier": "Crew"
+  },
+  {
+    "id": "c03",
+    "name": "Trisha Manalo",
+    "email": "trisha.manalo@example.com",
+    "city": "Mabalacat",
+    "favorite": "Mirror Blade",
+    "orders": 4,
+    "since": "2024-12",
+    "tier": "Core"
+  },
+  {
+    "id": "c04",
+    "name": "Jerome Pineda",
+    "email": "jerome.pineda@example.com",
+    "city": "Clark Freeport",
+    "favorite": "Slipstream Baggy",
+    "orders": 1,
+    "since": "2025-03",
+    "tier": "Member"
+  },
+  {
+    "id": "c05",
+    "name": "Aira Gonzales",
+    "email": "aira.gonzales@example.com",
+    "city": "Quezon City",
+    "favorite": "Glacier Edge",
+    "orders": 2,
+    "since": "2025-02",
+    "tier": "Crew"
+  },
+  {
+    "id": "c06",
+    "name": "Paolo Santos",
+    "email": "paolo.santos@example.com",
+    "city": "Makati",
+    "favorite": "Nightstar Wrap",
+    "orders": 5,
+    "since": "2024-10",
+    "tier": "Core"
+  },
+  {
+    "id": "c07",
+    "name": "Kyla Reyes",
+    "email": "kyla.reyes@example.com",
+    "city": "Cebu City",
+    "favorite": "Red Line Tee",
+    "orders": 1,
+    "since": "2025-06",
+    "tier": "Member"
+  },
+  {
+    "id": "c08",
+    "name": "Dion Valdez",
+    "email": "dion.valdez@example.com",
+    "city": "Tarlac City",
+    "favorite": "Thornwing",
+    "orders": 3,
+    "since": "2025-04",
+    "tier": "Crew"
+  }
+]
